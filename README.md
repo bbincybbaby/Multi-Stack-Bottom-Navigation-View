@@ -1,3 +1,5 @@
+[![Test & Build](https://github.com/bbincybbaby/MultiStackBottomNavigationView/actions/workflows/testandbuild.yml/badge.svg)](https://github.com/bbincybbaby/MultiStackBottomNavigationView/actions/workflows/testandbuild.yml)
+
 ## Bottom Navigation Menu: Similar back stack and back arrow action like Youtube, Instagram, Amazon and more
 
 I created this repository to show how to manage individual fragments back stack like Instagram, YouTube, Amazon and more.
